@@ -13,6 +13,11 @@ Front end is built by HTML5, CSS, Javascript and uses Google API's.
 User Signs in or register with name and email, followed by choosing between bar, club or brewery.
 
 
+![drink02](https://user-images.githubusercontent.com/62358897/106238187-40dafb80-61b5-11eb-85a2-a8cc5f091188.jpg)
+
+A map appears with the locations choosen from the type of destination users choose. 
+
+
  
  
 ## Link
