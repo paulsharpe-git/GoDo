@@ -7,6 +7,12 @@ A lifestyle app that helps users find a location to drink based on their prefere
 
 This is app uses Sequelize for manage the database with three models(User, Business and Passport for user authentication) and is backed by Mysql for the database.
 Front end is built by HTML5, CSS, Javascript and uses Google API's. 
+
+![drink01](https://user-images.githubusercontent.com/62358897/106238006-e6419f80-61b4-11eb-9166-9dcb5b6b02d3.jpg)
+
+User Signs in or register with name and email, followed by choosing between bar, club or brewery.
+
+
  
  
 ## Link
